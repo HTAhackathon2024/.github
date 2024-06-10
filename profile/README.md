@@ -1,50 +1,98 @@
 Welcome! 👋
 
-This is the GitHub Organisation for the [Royal Statistical Society (RSS)](https://rss.org.uk/) Charity Datathon 2024.
+This is the GitHub Organisation for the *R in HTA Hackathon* 5th - 6th August 2024!
 
-This is an event in collaboration with the
-[RSS Statisticians for Society (S4S) initiative](https://rss.org.uk/membership/volunteering-and-promoting/statisticians-for-society-initiative/).
-Statisticians for Society is a _pro bono_ scheme that connects professional statisticians and charitable organisations. Originally launched as a pilot project in 2017, the scheme has become an effective way for organisations to receive support from statistical experts at no cost. Our volunteer statisticians have been linked with over 60 organisations, helping them fulfil their charitable aims and objectives.
+This will be a 2 day event at Queen's University Belfast, Ireland for health economists, statisticians and R users.
 
-The datathon will be the first time we combine the work of S4S with a datathon format.
-Join us on this journey of innovation, exploration, and problem-solving as we harness the power and insight of data to benefit charities and those they help.
+### Overview
 
-### What is a datathon?
-Similar to hackathons, a datathon is an event where participants gather to solve practical problems through the application of data science tools and techniques, by working together in teams to generate insights and potential solutions.
-These events create a special sense of purpose to achieve something greater collectively in a relatively short space of timethat often emerge when working intensely in a time-bound setting.
-Participants will present their work and findings at the end.
-If you’re passionate about tackling interesting challenges met by UK charities, a datathon is for you.
+* Are you interested in using the power of R programming to tackle problems in health economics?
 
-### How is the datathon organized?
-There are a few key components:
+* Do you want to join up with a community of like-minded people?
 
-* Available problems and data: Representative from charities will be involved throughout. They will be the problem custodians and help to define and steer the projects.
-* A positive environment for participants to learn new data skills and produce impactful results
-* A chance for participants to make professional connections, and for everyone to have fun :tada:!
+* This will involve small group project work developing novel health economics tools, as well as training in related data science skills.
 
-### Challenges
-The final, detailed list of problems to tackle at the datathon have not been finalised. This is because the pool of projects are continually being braught to the S4S team from different charities and being addressed by the group of S4S vounteers in a one-to-one format. Closer to the time of the event the final list of project and their details will be released to registered attendees to choose from.
 
-Some past project tackled by the S4S volunteers and potentially appropriate for the datathon include the following:
+### Challenge themes
 
-* [Audience research for Ensemble Cymru](https://rss.org.uk/membership/volunteering-and-promoting/statisticians-for-society-initiative/case-studies/ensemble-cymru/): Devised a classification of classical audience attendees. Used these classifications to match with the mosaic classes and hence choose the postcode sectors likely to provide concert attendees.
-* [National Survivor User Network (NSUN) activity analysis](https://rss.org.uk/membership/volunteering-and-promoting/statisticians-for-society-initiative/case-studies/national-survivor-user-network/) Past members’ surveys were analysed for representativeness of the general membership. Trends in membership demographics and interests were tracked over 10 years and presented graphically.
+To help with development and selection, the tackled problems will fit within five broad challenge areas. These are:
 
-### Who can particpate?
-Just like for the current S4S project work, participants of the datathon must be fellows of the RSS.
-Beyond that, teams of 3-5 researchers, students, professionals from academia, government agencies, private sector companies or enthusiasts with a background in data science, statistics, economics, and social sciences are all welcome to apply!
-Teams will be defined prior to the day of the event so that teams can start as soon as possible. They will be selected according to the skills specified in the application process and one person will be the team leader.
+-   Reproducibility in HTA
+-   Reading, cleaning, and storing HTA data
+-   Reporting HTA results
+-   HTA model robustness
+-   HTA functionality and workflows
 
-### When is it?
-The datathon will be organized Spring 2024 in London. The final date has yet to be confirmed.
-The event will be held over the course of one days. This will hopefully sustain engagement and still be long enough to meet our objectives. Future events may be longer, over several days.
-We will start in the morning with problem presentations and team forming and then begin exploring the data.
-Coffee will be available throughout the day and lunch will be provided.
+Example projects within these themes could be, but are not limited to:
 
-### Where is it held?
-This will be a mix of in-person and virtual collaborations.
-The in-person event will take place at RSS headquarters, Errol Street, London.
-Remote participation will use Zoom and GitHub.
+-   Extending existing packages e.g. extended multistate model packages to explicitly incorporate cost-effectiveness analysis.
+-   Better handling of sensitivity analysis data
+-   Improving visualisation of economic evaluation data, statistics and uncertainties
+-   Improving ease of use e.g. simply by adding an extra level of abstraction to existing R package so that new higher-level functions can be exploited by practitioners and policymakers
+-   AI for model creating, checking and reporting
 
-### After the event
-Teams and charities will continue to be in contact to ensure that all the needs of the project are fully met. 
+### Outputs
+
+Including the following
+
+-   Kick-start early-stage collaboration among academics, government and industry.
+-   Set-up new networks to promote the exchange of ideas, information sharing, best practice, and other research goals.
+-   Strengthen existing and establish new communities of interest.
+-   Propose future collaboration and projects.
+-   Establish a hackathon format for future events around other economic evaluations themes.
+-   Develop a set of R packages that can be used by the wider health economics community.
+-   Develop a set of training materials that can be used by the wider health economics community.
+-   Fun and enjoyment!
+
+# FAQ
+
+### What is a hackathon?
+
+A hackathon is an event where participants can learn, build and share their created computer code over the course of a few days in a relaxed and welcoming atmosphere. Participants don’t have to be an expert programmer. The event is designed to be inclusive and fun.
+
+### Why people should take part?
+
+This event will be a unique opportunity to meet and form a community of like-minded people, hear from expert speakers and have the chance to develop your innovative ideas to solve HTA problems.
+
+### What are the attendance costs?
+
+The event will be free to attend. We will provide financial support with travel and accommodation for those that qualify. Please indicate in the application form. However, there is the expectation that those who can cover their own travel costs from their own funds will do so.
+
+### Where to stay?
+
+You are responsible for booking your own travel and accommodation but we will provide more information when your place is confirmed. <!-- (Malone Lodge Hotel](https://www.themalonehotel.com/) which is close to the University. -->
+
+### Who can apply?
+
+The workshop is open to all. Attendees must be over 18. Because of the nature of the event attendees must already have some grounding in using R. The most important thing is enthusiasm and a willingness to learn. We are interested in people who have domain expertise but are not expert programmers, and the other way around. There will be some up-skilling talks and demonstrations during the workshop in specialist areas.
+
+### What is the selection process?
+
+We will select participants based on their experience and motivation. We are looking for a diverse and balanced group of participants from different backgrounds and experiences. We will be in contact with all applicants once the selection process is decided.
+
+### How many participants?
+
+The number of spaces will be limited to 30 participants.
+
+### Is there training?
+
+Skills sessions will provide additional capacity building in R and software engineer from experiences experts. The RSE are employed to write software engineer quality code in a research environment and so will offer guidance and advice with knowledge from both perspectives. Sessions will cover e.g. unit testing, literate programming, package development, git and GitHub, but there will be some flexibility catered for, depending on the demands of the group.
+
+### Is there food and drink?
+
+A buffet-style breakfast and lunch will be provided on both days, ensuring to cater for dietary requirements. An evening meal and networking event will be arranged for the end of day one at [Villa Italia](https://www.villaitaliarestaurant.co.uk). Coffee and refreshments will be made available throughout the event. This is an important component for this type of event.
+
+### Why Queens University Belfast?
+
+QUB is a global research institute with state-of-the-art computing facilities. In particular, a bespoke computer room within the School of Electronics, Engineering and Computer Science has been fitted for teaching Data Analytics. These computers have all the latest software and packages, including R, and high processing power. This space has been used before for external events and is a perfect space to hold this event.
+
+### How are the teams formed and problem selection?
+
+Before the start of the hackathon there will be an open conversation for idea generation, about what particular problems the participants are most interested in tackling. Then at the event itself, a handful of project will be pitched on the opening morning and participants are free to pick and choose which they would like to work on.
+
+### Who are the instructors, support experts and presenters?
+
+There will be a participant project lead for each group of 3-5 people. There will also be R experts on-hand “floating” around the groups.
+
+
+This event was kindly funded by the [International Centre for Mathematical Sciences (ICMS)](https://www.icms.org.uk/funding-opportunities/strategic-workshops)
