@@ -22,3 +22,5 @@ To help with development and selection, the tackled problems will fit within fiv
 -   HTA functionality and workflows
 
 See [FAQs](https://n8thangreen.github.io/htahack2024/#:~:text=up%20and%20finish-,FAQ,-What%20is%20a) for more information.
+
+Start a Discussion [here](https://github.com/orgs/HTAhackathon2024/discussions).
