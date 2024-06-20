@@ -18,7 +18,7 @@ To help with development and selection, the tackled problems will fit within fiv
 
 ### Project ideas
 Use GitHub Discussions to propose and develop an idea for a project. This is a great way to engage fellow participants and get inspired.   
-Some previous R HTA hackathon project are [here](https://github.com/orgs/HTAhackathon2024/discussions/4).
+Some previous R HTA hackathon projects are [here](https://github.com/orgs/HTAhackathon2024/discussions/4).
 
 Read or start a Discussion [here](https://github.com/orgs/HTAhackathon2024/discussions).
 
