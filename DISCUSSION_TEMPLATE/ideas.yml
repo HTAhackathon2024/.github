@@ -1,0 +1,70 @@
+name: Project idea
+description: Proposal for a project to work on during the hackathon
+projects: 
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Add your idea for a project
+  - type: textarea
+    id: title
+    attributes:
+      label: title
+      description: Title of the project
+      placeholder: "foofactors"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: "What is the problem we're trying to solve"
+      description: "What is the problem we're trying to solve"
+      placeholder: "Make Factors Less Aggravating"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: "What is the problem we're trying to solve"
+      description: "What is the problem we're trying to solve"
+      placeholder: "Make Factors Less Aggravating"
+    validations:
+      required: true
+  - type: textarea
+    id: how
+    attributes:
+      label: How will we tackle the problem?
+      description: "A rough roadmap of the steps we need to accomplish"
+      placeholder: |
+        - [ ] Step 1: go through `{forcats}` documentation
+        - [ ] Step 2: create some dummy data
+        - [ ] Step 3: implement prototype
+        - [ ] Step 4: add tests
+        - [ ] ...
+    validations:
+      required: false
+  - type: textarea
+    id: tools
+    attributes:
+      label: Which tools will we use?
+      description: "Any packages or frameworks we'll use"
+      placeholder: "We'll make use of the `{forcats}` package"
+    validations:
+      required: false
+  - type: textarea
+    id: previous_work
+    attributes:
+      label: Previous work
+      description: In case you have done work on this previously
+      placeholder: "Here's a link to my repo from ages ago: https://github.com/my_profile/my_old_repo"
+    validations:
+      required: false
+  - type: textarea
+    id: resources
+    attributes:
+      label: Any further resources
+      description: Extra resources relevant to the project
+      placeholder: "- [Tools for Working with Categorical Variables (Factors) • forcats](https://forcats.tidyverse.org/)"
+    validations:
+      required: false
+  
