@@ -6,6 +6,9 @@ This will be a 2 day event at Queen's University Belfast, Ireland for health eco
 
 Involving small group project work developing novel health economics tools, as well as training in related data science skills.
 
+> [!TIP]
+> Add your project idea [here](https://github.com/orgs/HTAhackathon2024/discussions/new?category=ideas)!
+
 ### Challenge themes
 
 To help with development and selection, the tackled problems will fit within five broad challenge areas. These are:
