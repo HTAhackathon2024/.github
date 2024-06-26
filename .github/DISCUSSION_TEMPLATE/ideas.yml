@@ -1,17 +1,9 @@
-title: Project idea
+title: "[Project idea]"
 body:
     - type: markdown
       attributes:
           value: |
               Add your idea for a project
-    - type: textarea
-      id: title
-      attributes:
-          label: title
-          description: Title of the project
-          placeholder: "foofactors"
-      validations:
-          required: true
     - type: textarea
       id: problem
       attributes:
