@@ -27,6 +27,9 @@ Read or start a Discussion [here](https://github.com/orgs/HTAhackathon2024/discu
 
 For some help with using Discussions, see [here](https://github.com/HTAhackathon2024/hackathon-resources/blob/main/how-to-use-Discussions.md).
 
+###  Resources
+
+Find some useful resources in the [hackathon-resources](https://github.com/HTAhackathon2024/hackathon-resources) repo.
 
 See [FAQs](https://n8thangreen.github.io/htahack2024/#:~:text=up%20and%20finish-,FAQ,-What%20is%20a) for more information.
 
